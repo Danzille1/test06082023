@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\geekbrains\\test06082023\\Examples\\Example1\\Example1.csproj": {}
+    "f:\\geekbrains\\test06082023\\Examples\\Example1\\Example1.csproj": {}
   },
   "projects": {
-    "F:\\geekbrains\\test06082023\\Examples\\Example1\\Example1.csproj": {
+    "f:\\geekbrains\\test06082023\\Examples\\Example1\\Example1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\geekbrains\\test06082023\\Examples\\Example1\\Example1.csproj",
+        "projectUniqueName": "f:\\geekbrains\\test06082023\\Examples\\Example1\\Example1.csproj",
         "projectName": "Example1",
-        "projectPath": "F:\\geekbrains\\test06082023\\Examples\\Example1\\Example1.csproj",
+        "projectPath": "f:\\geekbrains\\test06082023\\Examples\\Example1\\Example1.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\geekbrains\\test06082023\\Examples\\Example1\\obj\\",
+        "outputPath": "f:\\geekbrains\\test06082023\\Examples\\Example1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
